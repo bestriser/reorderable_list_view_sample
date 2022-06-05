@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Flutterの公式リファレンスからのコピペです
-///
-/// https://api.flutter.dev/flutter/material/ReorderableListView-class.html
+/// [Flutterの公式リファレンス](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)のサンプルコードをコピペして実装しました
 class ReorderableListViewPage extends StatefulWidget {
   const ReorderableListViewPage({Key? key}) : super(key: key);
 

@@ -1,16 +1,11 @@
 # reorderable_list_view_sample
 
-This is Flutter project for ReorderableListView sample.
+# ReorderableListView
+[Flutterの公式リファレンス](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)のサンプルコードをコピペして実装しました
 
-## Getting Started
+https://user-images.githubusercontent.com/55462291/172074045-4d0ad069-0260-4134-8843-f8596922fcdf.mp4
 
-This project is a starting point for a Flutter application.
+# ReorderableColumn
+[reorderables 0.5.0](https://pub.dev/packages/reorderables)のReadmeのサンプルコードをコピペして実装しました
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/55462291/172074047-c3617df5-4f9e-46ad-b161-698cc29fa9aa.mp4

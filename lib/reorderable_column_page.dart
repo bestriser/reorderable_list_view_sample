@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:reorderables/reorderables.dart';
 
-/// reorderables 0.5.0 のReadmeからのコピペです
-///
-/// https://pub.dev/packages/reorderables
+/// [reorderables 0.5.0](https://pub.dev/packages/reorderables)のReadmeのサンプルコードをコピペして実装しました
 class ReorderableColumnPage extends StatefulWidget {
   const ReorderableColumnPage({Key? key}) : super(key: key);
 
